@@ -1,7 +1,7 @@
 ---
 name: Feature request
 about: Suggest an idea for this project
-title: ""
+title: "Finding a similar issue"
 labels: enhancement
 assignees: ''
 
@@ -9,18 +9,18 @@ assignees: ''
 
 ### First check
 
-* [ ] I added a very descriptive title to this issue.
-* [ ] I used the GitHub search to find a similar issue and didn't find it.
-* [ ] I searched the FastAPI documentation, with the integrated search.
-* [ ] I already searched in Google "How to X in FastAPI" and didn't find any information.
-* [ ] I already read and followed all the tutorial in the docs and didn't find an answer.
-* [ ] I already checked if it is not related to FastAPI but to [Pydantic](https://github.com/samuelcolvin/pydantic).
-* [ ] I already checked if it is not related to FastAPI but to [Swagger UI](https://github.com/swagger-api/swagger-ui).
-* [ ] I already checked if it is not related to FastAPI but to [ReDoc](https://github.com/Redocly/redoc).
-* [ ] After submitting this, I commit to:
-    * Read open issues with questions until I find 2 issues where I can help someone and add a comment to help there.
-    * Or, I already hit the "watch" button in this repository to receive notifications and I commit to help at least 2 people that ask questions in the future.
-    * Implement a Pull Request for a confirmed bug.
+* [1] I added a very descriptive title to this issue.
+* [2] I used the GitHub search to find a similar issue and didn't find it.
+* [3] I searched the FastAPI documentation, with the integrated search.
+* [4] I already searched in Google "How to X in FastAPI" and didn't find any information.
+* [5] I already read and followed all the tutorial in the docs and didn't find an answer.
+* [6] I already checked if it is not related to FastAPI but to [Pydantic](https://github.com/samuelcolvin/pydantic).
+* [7] I already checked if it is not related to FastAPI but to [Swagger UI](https://github.com/swagger-api/swagger-ui).
+* [8] I already checked if it is not related to FastAPI but to [ReDoc](https://github.com/Redocly/redoc).
+* [9] After submitting this, I commit to:
+   ** Read open issues with questions until I find 2 issues where I can help someone and add a comment to help there.
+    ** Or, I already hit the "watch" button in this repository to receive notifications and I commit to help at least 2 people that ask questions in the future.
+    ** Implement a Pull Request for a confirmed bug.
 
 <!-- 
 
